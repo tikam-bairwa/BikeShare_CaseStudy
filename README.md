@@ -27,3 +27,4 @@ Trip data from June 2021 to May 2022 provided in the *Google Data Analytics Caps
 
 Information for each trip started from all the stations available in a .csv for each month.
 
+Complete report on Case study is available [here](https://docs.google.com/document/d/1mZMC0s867X3G1dCvjmRlR6w3ckgMGFSLDO3dFwc5l90/edit?usp=sharing)
